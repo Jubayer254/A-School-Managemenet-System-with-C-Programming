@@ -1,0 +1,44 @@
+-------------------------------------------------------------------------
+Name: Jubayer
+ID: 001
+Date of Birth: 09/03/2000
+Age: 21
+Father's Name: Masudur Rahman
+Mother's Name: Lovely Rahman
+Gender: MALE
+Address: Tikatuli,Dhaka
+Class: 10
+Total Payment: 1000
+-------------------------------------------------------------------------
+Name: Abir
+ID: 002
+Date of Birth: 14/09/1999
+Age: 22
+Father's Name: Tulu Chowdhury
+Mother's Name: Bina Begum
+Gender: FEMALE
+Address: Dhanmondi, Dhaka
+Class: 9
+Total Payment: 800
+-------------------------------------------------------------------------
+Name: Sujon
+ID: 003
+Date of Birth: 25/01/1999
+Age: 22
+Father's Name: Fakir Chan
+Mother's Name: Jani Na
+Gender: FEMALE
+Address: Tikatuli, Dhaka
+Class: 8
+Total Payment: 700
+-------------------------------------------------------------------------
+Name: Niloy
+ID: 004
+Date of Birth: 25/01/1999
+Age: 22
+Father's Name: Jani na
+Mother's Name: Jani na
+Gender: FEMALE
+Address: Wari, Dhaka
+Class: 5
+Total Payment: 1000

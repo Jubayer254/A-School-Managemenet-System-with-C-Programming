@@ -1,0 +1,40 @@
+Jubayer
+001
+09/03/2000
+21
+Masudur Rahman
+Lovely Rahman
+MALE
+Tikatuli,Dhaka
+10
+1000
+Abir
+002
+14/09/1999
+22
+Tulu Chowdhury
+Bina Begum
+FEMALE
+Dhanmondi, Dhaka
+9
+800
+Sujon
+003
+25/01/1999
+22
+Fakir Chan
+Jani Na
+FEMALE
+Tikatuli, Dhaka
+8
+700
+Niloy
+004
+25/01/1999
+22
+Jani na
+Jani na
+FEMALE
+Wari, Dhaka
+5
+1000
