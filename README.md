@@ -18,40 +18,37 @@ It is a School Management System. In this system, a school can manage their stud
 * Student Entry
 * Delete Student
 * Make Payment
-* Search Student
-* View Student Information
+* View Which Students Have Birthday at Current Day
 
 ## Snapshots
 
-* Splash Screen
+* Home
 
 <img src="Screenshots\1.PNG" alt="" style="width:1080px;"/>
 
-* Login Page
+* SignUp
 
 <img src="Screenshots\2.PNG" alt="" style="width:1080px;"/>
 
-* SignUp Page
+* Admin Home
 
 <img src="Screenshots\3.PNG" alt="" style="width:1080px;"/>
 
-* Student Entry Page
+* Register New Student
 
 <img src="Screenshots\4.PNG" alt="" style="width:1080px;"/>
 
-* Delete Sutudent Page
+* See Student Information
 
 <img src="Screenshots\5.PNG" alt="" style="width:1080px;"/>
 
-* Payment Page
-
 <img src="Screenshots\6.PNG" alt="" style="width:1080px;"/>
 
-* Student Searching Page
+* Update Payment
 
 <img src="Screenshots\7.PNG" alt="" style="width:1080px;"/>
 
-* Student Information Page
+* See Which Students Have Birthday Today
 
 <img src="Screenshots\8.PNG" alt="" style="width:1080px;"/>
  
@@ -59,7 +56,7 @@ It is a School Management System. In this system, a school can manage their stud
 
 <img src="Screenshots\9.PNG" alt="" style="width:1080px;"/>
 
-* Student Information Page
+* Logout & Exit System
 
 <img src="Screenshots\10.PNG" alt="" style="width:1080px;"/>
 
