@@ -38,9 +38,9 @@ It is a School Management System. In this system, a school can manage their stud
 
 <img src="Screenshots\4.PNG" alt="" style="width:1080px;"/>
 
-* See Student Information
-
 <img src="Screenshots\5.PNG" alt="" style="width:1080px;"/>
+
+* See Student Information
 
 <img src="Screenshots\6.PNG" alt="" style="width:1080px;"/>
 
